@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2011-07-20 14:58">  <!-- todo change date -->
+  <shop>
+    <name>Young &amp; Free</name>
+    <company>ФОП Чуйко Л.В.</company>
+    <url>http://dinos.com.ua/</url>
+    <currencies>
+      <currency id="UAH" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Для девочек</category>
+      <category id="10" parentId="1">Блузки, рубашки</category>
+      <category id="11" parentId="1">Брюки, джинсы</category>
+      <category id="12" parentId="1">Верхняя одежда</category>
+      <category id="13" parentId="1">Головные уборы и рукавицы</category>
+      <category id="14" parentId="1">Жакеты, жилетки, болеро</category>
+      <category id="15" parentId="1">Колготки, носки</category>
+      <category id="16" parentId="1">Комбинезоны</category>
+      <category id="17" parentId="1">Комплекты</category>
+      <category id="18" parentId="1">Леггинсы, лосины</category>
+      <category id="19" parentId="1">Лонгсливы, водолазки, туники</category>
+      <category id="20" parentId="1">Майки, футболки, туники</category>
+      <category id="21" parentId="1">Нижнее бельё, пижамы</category>
+      <category id="22" parentId="1">Платья, сарафаны</category>
+      <category id="23" parentId="1">Регланы, толстовки, худи</category>
+      <category id="24" parentId="1">Свитера</category>
+      <category id="25" parentId="1">Спортивная одежда</category>
+      <category id="26" parentId="1">Шорты, капри</category>
+      <category id="27" parentId="1">Школьная форма</category>
+      <category id="28" parentId="1">Обувь</category>
+      <category id="29" parentId="1">Куртки джинсовые</category>
+      <category id="30" parentId="1">Юбки</category>
+      <category id="2">Для мальчиков</category>
+      <category id="31" parentId="2">Брюки, джинсы</category>
+      <category id="32" parentId="2">Верхняя одежда</category>
+      <category id="33" parentId="2">Головные уборы, шарфы, рукавицы</category>
+      <category id="34" parentId="2">Колготки и носки</category>
+      <category id="35" parentId="2">Куртки джинсовые</category>
+      <category id="36" parentId="2">Лонгсливы, водолазки</category>
+      <category id="37" parentId="2">Нижнее бельё, пижамы, плавки</category>
+      <category id="38" parentId="2">Пиджаки</category>
+      <category id="39" parentId="2">Регланы, толстовки, свитшоты</category>
+      <category id="40" parentId="2">Рубашки</category>
+      <category id="41" parentId="2">Свитера, жилетки</category>
+      <category id="42" parentId="2">Спортивная одежда</category>
+      <category id="43" parentId="2">Футболки, майки</category>
+      <category id="44" parentId="2">Шорты, бермуды</category>
+      <category id="45" parentId="2">Обувь</category>
+    </categories>
+    <offers>
+      <offer id="19305" available="true">
+        <url>http://abc.ua/catalog/muzhskaya_odezhda/kurtki/kurtkabx.html</url>
+        <price>4499</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>391</categoryId>
+        <picture>http://abc.ua/upload/iblock/a53/a5391cddb40be91705.jpg</picture>
+        <picture>http://abc.ua/upload/iblock/9d0/9d06805d219fb525fc.jpg</picture>
+        <picture>http://abc.ua/upload/iblock/93d/93de38537e1cc1f8f2.jpg</picture>
+        <vendor>Abc clothes</vendor>
+        <stock_quantity>100</stock_quantity>
+        <name>Куртка Abc clothes Scoperandom-HH XL Черная (1323280942900)</name>
+        <description><![CDATA[<p>Одежда<b>Abc clothes</b> способствует развитию функций головного мозга за счет поощрения мелкой моторики.</p><p>В Abc <b>New Collection</b> будет особенно удобно лазать, прыгать, бегать.</p><p>За счет своей универсальноcти и многофункциональности, <b>Abc clothes</b> отлично подходит:</p><ul><li><b>Для весны</b></li><li><b>Для лета</b></li><li><b>Для ранней осени</b></li></ul><br><p><b>Состав:</b><br>• 92% полиэстер, 8% эластан, нетоксичность подтверждена лабораторно.</p><p><b>Вес:</b> 305 г</p>]]></description>
+        <param name="Вид">Куртка</param>
+        <param name="Размер">XL</param>
+        <param name="Сезон">Весна-Осень</param>
+        <param name="Категория">Мужская</param>
+        <param name="Цвет">Черный</param>
+        <param name="Длина">Средней длины</param>
+        <param name="Стиль">Повседневный (casual)</param>
+        <param name="Особенности">Модель с капюшоном</param>
+        <param name="Состав">92% полиэстер, 8% эластан</param>
+        <param name="Артикул">58265468</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
